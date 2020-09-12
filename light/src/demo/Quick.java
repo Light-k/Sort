@@ -70,6 +70,5 @@ public class Quick {
         temp = a[i];
         a[i] = a[j];
         a[j] = temp;
-        a;
     }
 }
