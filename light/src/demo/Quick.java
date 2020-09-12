@@ -1,4 +1,16 @@
+package demo;
+
+
+/**
+ * 快速排序
+ *
+ * @Author : KangXu
+ * @Date : 2020/9/11
+ * @Package : com.light.layui.pojo
+ */
+
 public class Quick {
+
     //对数组内的元素进行排序
     public static void sort(Comparable[] a) {
         int minIndex = 0;                       //设置最小索引
